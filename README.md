@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.png" alt="Rasya aka micin — Programming Intern at Kuy Digital Media" width="100%" />
+  <img src="./header.png" alt="Rasya aka micin — Programming Intern at Kuy Digital Media" width="100%" />
 </p>
 
 <p align="center">
